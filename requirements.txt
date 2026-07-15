@@ -1,0 +1,15 @@
+requests
+pandas
+sqlalchemy
+streamlit
+pyarrow
+fastparquet
+feedparser
+ollama
+psycopg2-binary
+plotly
+transformers
+torch
+torchvision
+python-dotenv
+pytest
