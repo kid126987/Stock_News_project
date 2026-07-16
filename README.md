@@ -68,7 +68,7 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📂 專案檔案結構與功能摘要
+## 專案檔案結構與功能摘要
 ```
 main/
 ├── main.py                    # 系統入口：依賴檢查、建庫、啟動更新管線與 Streamlit 導引
