@@ -13,3 +13,4 @@ torch
 torchvision
 python-dotenv
 pytest
+psycopg[binary]
